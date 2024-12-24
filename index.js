@@ -1,5 +1,5 @@
 const { Bot, InlineKeyboard } = require("grammy");
-const { Keyboard } = require("@grammyjs/keyboard");
+const { Keyboard } = require("grammy");
 const moment = require("moment");
 
 // Токен бота
